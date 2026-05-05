@@ -1,5 +1,3 @@
----
-
 ```md id="y2n8rm"
 # R Project Archive
 ### A Three-Layer Time Capsule of Contemporary Parsi Discourse
