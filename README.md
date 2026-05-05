@@ -199,7 +199,7 @@ Initial focus:
 ## Next Steps
 
 - Expand entry dataset  
-- Add translations (Hindi, Gujarati)  
+- Add translations (Hindi, Gujarati, Zesperanto)  
 - Refine conlang integration  
 - Generate exportable book volumes  
 
