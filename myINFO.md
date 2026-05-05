@@ -1,4 +1,3 @@
-Below is the clean Markdown source code for your repository structure. I have refined the formatting for maximum readability and consistency, ensuring it functions as a professional project blueprint.
 
 ```markdown
 # R Project Archive — Initial Structure & Proposal
