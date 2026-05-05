@@ -46,18 +46,31 @@ Together, these layers allow comparison between:
 ```
 
 r-project-archive/
+
 │
+
 ├── README.md
+
 ├── CONTRIBUTING.md
+
 ├── LICENSE
+
 │
+
 ├── /docs
+
 ├── /data
+
 ├── /entries
+
 ├── /conlang
+
 ├── /analysis
+
 ├── /scripts (optional)
+
 └── /exports
+
 
 ```
 
@@ -70,12 +83,19 @@ The core of the project lives in `/entries/`, where each conversation is stored 
 ```
 
 /entries/entry-001/
+
 screenshot.png
+
 source.txt
+
 esperanto.txt
+
 conlang.txt
+
 hindi.txt
+
 gujarati.txt
+
 notes.md
 
 ```
