@@ -113,6 +113,7 @@ This enables distributed contribution without requiring full system knowledge.
 - Not an official or comprehensive archive  
 - Not a scientific or ethnographic study  
 - Not a finalized or fully public language project  
+- Not an attempot to right historical wrongs, or solve legal issues
 
 ---
 
